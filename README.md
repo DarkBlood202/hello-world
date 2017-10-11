@@ -1,2 +1,6 @@
 # hello-world
 This is my first repository ever, please be gentle.
+
+So... I've never tried this before... It feels quite weird... IDK, maybe I'm just overreacting...
+Not much to say so...
+See you.
